@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently working on HTML5
+I am currently working on HTML5/CSS
 
 
 ## 🌐 Socials:
