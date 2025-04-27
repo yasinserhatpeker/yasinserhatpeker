@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center">I'm Yasin Serhat Peker 🖥️ </h1>
 <h3 align="center">An engineer in making </h3>
 
