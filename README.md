@@ -6,15 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"> </img>
 
-- 🔭 I’m currently working on **myWebSite**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Web projects**
-
-- 💬 Ask me about **HTML/CSS/JavaScript**
-
-- 📫 How to reach me **yasinpeker43@gmail.com**
+Computer Engineering undergraduate and aspiring Front‑End Developer driven to build clean, responsive & intuitive web interfaces.
+Skilled in HTML, CSS, JavaScript, React, Bootstrap CSS, and Sass.
+I’m on a mission to turn polished design concepts into lightning‑fast, accessible web products that feel effortless for everyone.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
