@@ -1,4 +1,4 @@
-![MasterHead]([https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif))
+![MasterHead]([(https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif))
 <h1 align="center">I'm Yasin Serhat Peker 🖥️ </h1>
 <h3 align="center">An engineer in making </h3>
 
