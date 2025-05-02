@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"> </img>
 <h2>About me</h2>
 <p>Computer Engineering undergraduate and aspiring Front‑End Developer driven to build clean, responsive & intuitive web interfaces. </p>
-<p></p>Skilled in HTML, CSS, JavaScript, React, Bootstrap CSS, and Sass. </p>
+<p></p>Skilled in HTML, CSS, JavaScript, React, Bootstrap and Sass. </p>
 <p></p>I’m on a mission to turn polished design concepts into lightning‑fast, accessible web products that feel effortless for everyone. </p>
 
 <h3 align="left">Connect with me:</h3>
