@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 
 Computer Engineering undergraduate and aspiring Back-End Developer passionate about designing and building robust, scalable, and efficient server-side applications.<br><br>I specialize in developing APIs and backend services using C#, .NET, and ASP.NET Core, with hands-on experience in Entity Framework, LINQ, and SQL for data access and management. I’m particularly interested in creating maintainable, clean code that follows solid architectural principles like SOLID and clean architecture
 
 
