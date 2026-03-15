@@ -12,6 +12,8 @@ I build backend applications mainly with **ASP.NET Core** and enjoy designing cl
 - Distributed Systems  
 - Backend Architecture  
 - Scalable Systems  
-- Cloud Technologies  
+- Cloud Technologies
+
+### Linkedin -> https://www.linkedin.com/in/yasinserhatpeker/
 
 
