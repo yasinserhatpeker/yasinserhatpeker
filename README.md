@@ -1,16 +1,36 @@
-## Hi there 👋
+##### Hi 👋 I'm Yasin Peker, a backend developer passionate about System Design and scalable architectures.
 
-<!--
-**yasinserhatpeker/yasinserhatpeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student and backend developer who enjoys understanding how complex software systems are designed, scaled, and maintained in production.
 
-Here are some ideas to get you started:
+My main interest is **System Design** — exploring how large-scale systems are architected, how services communicate, and how performance, reliability, and scalability are achieved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend applications mainly with **ASP.NET Core** and enjoy designing clean APIs, thinking about data models, and applying architectural patterns that make systems easier to scale and maintain.
+
+---
+
+### Current Focus
+
+- Studying **System Design fundamentals**
+- Designing **scalable backend architectures**
+- Building **RESTful APIs with ASP.NET Core**
+- Working with **PostgreSQL and SQL Server**
+- Learning more about **distributed systems and cloud architecture**
+
+---
+
+### Interests
+
+- System Design  
+- Distributed Systems  
+- Backend Architecture  
+- Scalable Systems  
+- Cloud Technologies  
+
+---
+
+### Let's Connect
+
+- LinkedIn  
+- Portfolio Website  
+- GitHub Projects
+
