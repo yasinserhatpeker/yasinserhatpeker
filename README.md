@@ -10,8 +10,9 @@ I build backend applications mainly with **.NET Core** and enjoy designing clean
 
 - System Design  
 - Distributed Systems  
-- Backend Architecture  
-- Scalable Systems  
+- Backend Architecture   
+- Scalable Systems
+- Frontend Development
 - Cloud Technologies
 
  Linkedin -> https://www.linkedin.com/in/yasinserhatpeker/
