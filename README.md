@@ -1,4 +1,4 @@
-##### Hi 👋 I'm Yasin Serhat Peker, a backend developer passionate about System Design and scalable architectures.
+##### Hi 👋 I'm Yasin Serhat Peker, a backend-heavy Fullstack developer passionate about System Design and scalable architectures.
 
 I'm a computer engineering student and backend developer who enjoys understanding how complex software systems are designed, scaled, and maintained in production.
 
